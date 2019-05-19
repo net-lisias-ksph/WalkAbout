@@ -1,5 +1,12 @@
 # WalkAbout :: Change Log
 
+* 2017-0717: 1.7.1 (Antipodes) for KSP 1.3.0
+	+ Fixed bug that crashed v1.7 while trying to find KIS modules.
+		- Version 1.7 incorporates a new method for storing locations. This method is incompatible with the previous method. As a result, any custom-made locations (i.e. those stored in the user.loc file) will no longer work and must be recreated using the Add Location Utility (see Adding your own Locations below).
+		- Some previously defined locations have been removed. In particular, location within stairwells and walkways were problematic and caused kerbals to appear on top of buildings instead of inside them. Those locations that could not be shifted to reasonably close alternate locations were removed.
+		- New Features:
+			- Works with relocated KSC. Tested with Galileo Planetary Pack and Alien Space Program.
+			- Incorporated code by LabRats (http://forum.kerbalspaceprogram.com/index.php?/profile/158208-labrats/) to honour KIS mod's volume settings for items.
 * 2017-0716: 1.7 (Antipodes) for KSP 1.3.0
 	+ Version 1.7 incorporates a new method for storing locations. This method is incompatible with the previous method. As a result, any custom-made locations (i.e. those stored in the user.loc file) will no longer work and must be recreated using the Add Location Utility.
 	+ Some previously defined locations have been removed. In particular, locations within stairwells and walkways were problematic and caused kerbals to appear on top of buildings instead of inside them. Those locations that could not be shifted to reasonably close alternate locations were removed.
