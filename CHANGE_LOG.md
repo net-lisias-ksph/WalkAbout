@@ -1,5 +1,7 @@
 # WalkAbout :: Change Log
 
+* 2016-1027: 1.5.1 (Antipodes) for KSP 1.2
+	+ Corrected file contents of release package
 * 2016-1027: 1.5 (Antipodes) for KSP 1.2
 	+ Added support for the Kerbal Inventory System mod. Kerbals can now be assigned items to be included in their inventory when they are placed around the KSC.
 * 2016-1019: 1.4 (Antipodes) for KSP 1.2
