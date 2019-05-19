@@ -1,5 +1,9 @@
 # WalkAbout :: Change Log
 
+* 2016-1019: 1.4 (Antipodes) for KSP 1.2
+	+ Works with KSP version 1.2
+	+ New Features:
+		- Added Extras folder.
 * 2016-0417: 1.3 (Antipodes) for KSP 1.1.3
 	+ Works with KSP version 1.1
 	+ New Features:
