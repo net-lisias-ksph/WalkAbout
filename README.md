@@ -108,11 +108,11 @@ Direction change is relative to the camera. So pressing W turns the kerbal to sa
 
 This AddOn is (C) [Antipodes](https://forum.kerbalspaceprogram.com/index.php?/profile/157104-antipodes/) and licensed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.txt).
 
-You are authorized to fork this repository under GitHub [ToS](https://help.github.com/articles/github-terms-of-service/) **and** the License above.
+You are authorised to fork this repository under GitHub [ToS](https://help.github.com/articles/github-terms-of-service/) **and** the License above.
 
 
 ## References
 
-* [Antipoes](https://forum.kerbalspaceprogram.com/index.php?/profile/157104-antipodes/)
+* [Antipodes](https://forum.kerbalspaceprogram.com/index.php?/profile/157104-antipodes/) ROOT
 	+ [KSP Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/130575-13-walkabout-v171-17-07-2017/)
-	+ [SpaceDock](https://www.spacedock.info/mod/228/WalkAbout)
+	+ [SpaceDock](http://www.spacedock.info/mod/228/WalkAbout)
